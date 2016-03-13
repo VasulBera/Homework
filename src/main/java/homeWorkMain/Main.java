@@ -22,10 +22,8 @@ public class Main {
 			String choise = sc.nextLine();
 			switch (choise) {
 			case "0":
+				System.out.println("Good Bye !");
 				System.exit(0);
-
-
-
 			case "15":
 				System.out.println("In the array of natural numbers, with legth N, please find"
 						+ "a natural number that is dividet to 5 and " + "not didvided to 7 at the same time");
