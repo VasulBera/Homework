@@ -1,4 +1,4 @@
-package main.java.homeWorkMain;
+package homeWorkMain;
 
 import java.util.Scanner;
 
@@ -24,23 +24,9 @@ public class Main {
 			case "0":
 				System.exit(0);
 
-			case "1":		
-				break;
-            case "10":
-                HomeworkTerlyha.solveExcercise108();
-                break;
-            
-            case "11":
-                HomeworkTerlyha.solveExcercise325();
-                break;
-            
-            case "12":
-                HomeworkTerlyha.solveExcercise561();
-                break;
 
-            case "7":
 
-			case "1":
+			case "15":
 				System.out.println("In the array of natural numbers, with legth N, please find"
 						+ "a natural number that is dividet to 5 and " + "not didvided to 7 at the same time");
 				System.out.println("Enter the length of array: ");
@@ -101,10 +87,7 @@ public class Main {
 				System.out.println("----------------------------------------------------------");
 				break;
 
-			case "15":
-				HomeworkVarvariuk.solveExercise330();
-				System.out.println("----------------------------------------------------------");
-				break;
+			
 
 			case "16":
 				Task87.main(args);

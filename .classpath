@@ -22,5 +22,10 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="lib/HomeWorkBondar.jar"/>
+	<classpathentry kind="lib" path="lib/homeWorkKrokhmalyuk-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="lib/homeWorkPetyrk-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="lib/homeworkTerlyha-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="lib/homeWorkVarvariuk-1.1.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
